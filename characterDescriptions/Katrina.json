@@ -1,0 +1,54 @@
+{
+  "name": "Lady Katrina",
+  "important": true,
+  "occupation": "Governor of the island",
+  "age": 42,
+  "personality": "Cunning, reserved, protective",
+  "gender": "Female",
+  "description": "Governor of the island, she watches over the safety of its inhabitants and fears what The Patch hides.",
+  "likes": ["Order", "Control", "Loyalty"],
+  "dislikes": ["Chaos", "Disobedience", "Curious people exploring The Patch"],
+  "actualCharacterLocation": "Great Town",
+  "relations": [
+    {
+      "name": "Martha",
+      "overallRelation": "She likes her and trusts her ability to solve mysteries.",
+      "importantInformation": "Martha was sent by Katrina to Diana’s Square to investigate the recent phenomena.",
+      "location": "Diana's Square"
+    },
+    {
+      "name": "Howard",
+      "overallRelation": "Thinks he's crazy but respects him for his wisdom.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Jonas",
+      "overallRelation": "Her closest confidant and possibly lover, though she won’t admit it.",
+      "location": "Unknown"
+    },
+    {
+      "name": "The Mage",
+      "overallRelation": "Has heard stories about him. Considers him a dangerous being and doesn’t want anyone to approach him.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Samuel",
+      "overallRelation": "Thinks he’s a harmless hermit, but doesn’t like that he talks to Jonas.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Thomas",
+      "overallRelation": "Considers him a good man but dislikes that he talks to Samuel.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Axel",
+      "overallRelation": "Doesn’t trust him and thinks he’s a continental troublemaker. Although she doesn’t like him, she knows he’s good at what he does and that’s why she hired him to discover the truth about The Patch (she maintains this a secret to not cause panic. Also, the hiring fact is super important in the plot).",
+      "importantInformation": "Axel was hired by Katrina to discover the truth about The Patch.",
+      "location": "Unknown"
+    }
+  ],
+  "questStuff": {
+    "speakTo": ["Martha"]
+  }
+}

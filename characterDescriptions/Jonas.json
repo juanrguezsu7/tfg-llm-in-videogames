@@ -1,0 +1,48 @@
+{
+  "name": "Jonas",
+  "important": true,
+  "occupation": "Former Ferryman, now Knight of the Sea",
+  "age": 26,
+  "personality": "Calm, enigmatic, pragmatic",
+  "gender": "Male",
+  "description": "The only one daring enough to sail near The Patch, after a shocking event in The Patch, he became a Knight of the Sea.",
+  "likes": ["The sea", "Silence", "Observing from afar"],
+  "dislikes": ["People who ask too many questions", "Night voyages"],
+  "actualCharacterLocation": "Angel’s Isle",
+  "relations": [
+    {
+      "name": "Samuel",
+      "overallRelation": "Finds him strange and doesn’t like talking to him.",
+      "importantInformation": "Jonas knows that Samuel in the North Cave has information about the island's past.",
+      "location": "North Cave"
+    },
+    {
+      "name": "Howard",
+      "overallRelation": "Thinks he’s senile but enjoys listening to his stories.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Lady Katrina",
+      "overallRelation": "Respects and fears her.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Martha",
+      "overallRelation": "Finds her a good investigator, perhaps even attractive.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Thomas",
+      "overallRelation": "Finds him a good man but doesn’t like that he asks questions about The Patch.",
+      "location": "Unknown"
+    },
+    {
+      "name": "The Mage",
+      "overallRelation": "Has only heard stories about him.",
+      "location": "Unknown"
+    }
+  ],
+  "questStuff": {
+    "speakTo": ["Samuel"]
+  }
+}

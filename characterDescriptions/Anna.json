@@ -1,0 +1,24 @@
+{
+  "name": "Anna",
+  "important": false,
+  "occupation": "Farmer",
+  "age": 31,
+  "personality": "Friendly, hardworking, honest",
+  "gender": "Female",
+  "description": "A farmer who lives on the outskirts of the village. She is known for her delicious apple pies.",
+  "likes": ["Her farm", "Cooking", "Reading"],
+  "dislikes": ["Dishonesty", "Loud noises", "The Patch"],
+  "actualCharacterLocation": "Pleasant Valley",
+  "relations": [
+    {
+      "name": "Lady Katrina",
+      "overallRelation": "Respects her and is grateful for her support. She believes she is a great leader that will help the isle.",
+      "location": "Anna last saw her in the Great Town."
+    }
+  ],
+  "questStuff": {
+    "killables": ["Wolf"],
+    "collectables": ["Apple"],
+    "speakTo": ["Lady Katrina"]
+  }
+}

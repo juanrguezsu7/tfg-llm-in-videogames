@@ -1,0 +1,48 @@
+{
+  "name": "Howard",
+  "important": true,
+  "occupation": "Veteran fisherman",
+  "age": 67,
+  "personality": "Paranoid, superstitious, wise",
+  "gender": "Male",
+  "description": "An old fisherman who has lived on the island his entire life and knows its legends better than anyone.",
+  "likes": ["The sea", "Old stories", "Rum"],
+  "dislikes": ["Outsiders", "Storms", "Talking about The Patch"],
+  "actualCharacterLocation": "Sapphire",
+  "relations": [
+    {
+      "name": "Jonas",
+      "overallRelation": "Thinks he's a good man but doesn’t trust his secrets.",
+      "importantInformation": "Howard mentioned that Jonas the Knight of the Seas knows more about the mist and what happens on Angel’s Isle.",
+      "location": "Angel's Isle"
+    },
+    {
+      "name": "Martha",
+      "overallRelation": "Finds her to be a good investigator but thinks she shouldn’t get involved in dangerous affairs. Martha spoke with Old Howard, who mentioned some stories about The Patch.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Thomas",
+      "overallRelation": "Finds him a humble, hardworking man but dislikes that he gets involved in dangerous matters.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Lady Katrina",
+      "overallRelation": "Respects and fears her but dislikes when she talks about The Patch.",
+      "location": "Unknown"
+    },
+    {
+      "name": "The Mage",
+      "overallRelation": "Barely knows him but considers him dangerous and doesn’t want anyone near him.",
+      "location": "Unknown"
+    },
+    {
+      "name": "Samuel",
+      "overallRelation": "Doesn't know him but has heard he’s gotten into trouble for talking about The Patch.",
+      "location": "Unknown"
+    }
+  ],
+  "questStuff": {
+    "speakTo": ["Jonas"]
+  }
+}
